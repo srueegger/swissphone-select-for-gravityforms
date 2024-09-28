@@ -35,7 +35,7 @@
 function spsgf_activation_check() {
   if ( !is_plugin_active( 'gravityforms/gravityforms.php' ) ) {
     deactivate_plugins( plugin_basename( __FILE__ ) );
-    wp_die( __( 'Please install and Activate GravityForms.', 'swissphone-select-for-gravityforms' ), 'Plugin dependency check', array( 'back_link' => true ) );
+    wp_die( esc_attr__( 'Please install and Activate GravityForms.', 'swissphone-select-for-gravityforms' ), 'Plugin dependency check', array( 'back_link' => true ) );
   }
 }
 
