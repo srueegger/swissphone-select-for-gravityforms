@@ -21,7 +21,7 @@
  *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
@@ -35,7 +35,7 @@
 function spsgf_activation_check() {
   if ( !is_plugin_active( 'gravityforms/gravityforms.php' ) ) {
     deactivate_plugins( plugin_basename( __FILE__ ) );
-    wp_die( __( 'Please install and Activate GravityForms.', 'swissphone-select-for-gravityforms' ), 'Plugin dependency check', array( 'back_link' => true ) );
+    wp_die( esc_attr__( 'Please install and Activate GravityForms.', 'swissphone-select-for-gravityforms' ), 'Plugin dependency check', array( 'back_link' => true ) );
   }
 }
 
