@@ -12,14 +12,6 @@ This GitHub repository holds the source files for the plugin.
 
 ## Screenshots
 
-![Preferred Languages: Settings Section](https://ps.w.org/preferred-languages/assets/screenshot-1.png?rev=1739409)
-
-Preferred Languages settings section
-
-![Preferred Languages: User Profile](https://ps.w.org/preferred-languages/assets/screenshot-2.png?rev=1739409)
-
-A user’s individual list of preferred languages
-
 ## Contributing
 
 Please help test! Install the plugin and [open issues](https://github.com/srueegger/SwissPhone-Select-for-GravityForms/issues) for any bugs you might find.
