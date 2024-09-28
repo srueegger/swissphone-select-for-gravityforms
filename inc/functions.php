@@ -1,6 +1,6 @@
 <?php
 /* Add Swiss Phone Format to GravityForms Phone Field */
-function ch_phone_format( $phone_formats ) {
+function spsgf_ch_phone_format( $phone_formats ) {
     $phone_formats['uk'] = array(
         'label'       => 'Switzerland',
         'mask'        => '+41 99 999 99 99',
@@ -10,4 +10,4 @@ function ch_phone_format( $phone_formats ) {
  
     return $phone_formats;
 }
-add_filter( 'gform_phone_formats', 'ch_phone_format' );
+add_filter( 'gform_phone_formats', 'spsgf_ch_phone_format' );
