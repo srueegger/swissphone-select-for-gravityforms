@@ -2,7 +2,7 @@
 /**
  * Plugin Name: SwissPhone Select for GravityForms
  * Plugin URI:  https://github.com/srueegger/SwissPhone-Select-for-GravityForms
- * Description: SwissPhone Select for GravityForms is a lightweight add-on that automatically sets the default country code to Switzerland (+41) for phone number fields in your GravityForms. Simplify form submissions for Swiss users and enhance user experience with this easy-to-use plugin.
+ * Description: SwissPhone Select for GravityForms is a lightweight WordPress plugin that adds Switzerland (+41) as a selectable option for phone number fields in your GravityForms. Make it easier for Swiss users to fill out forms by providing a convenient country code option and enhancing the overall user experience.
  * Version:     1.0.0
  * Author:      Samuel Rüegger
  * Author URI:  https://rueegger.me
