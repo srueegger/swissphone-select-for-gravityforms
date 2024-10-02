@@ -4,7 +4,7 @@ Donate link: https://github.com/sponsors/srueegger
 Tags: gravityforms, switzerland, phone
 Requires at least: 6.6
 Tested up to: 6.6
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 8.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
