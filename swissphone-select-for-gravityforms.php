@@ -31,6 +31,10 @@
  * @package PreferredLanguages
  */
 
+if ( ! defined( 'ABSPATH' ) ) {
+  exit; // Exit if accessed directly
+}
+
 /* Check if GravityForms is active */
 function spsgf_activation_check() {
   if ( !is_plugin_active( 'gravityforms/gravityforms.php' ) ) {
