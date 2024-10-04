@@ -8,7 +8,7 @@ The plugin requires no configuration—simply install and activate, and Switzerl
 
 ## Download
 
-This GitHub repository holds the source files for the plugin.
+This GitHub repository holds the source files for the plugin. To download the final build, [head over to WordPress.org](https://wordpress.org/plugins/swissphone-select-for-gravityforms/).
 
 ## Screenshots
 
