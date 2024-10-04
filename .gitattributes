@@ -2,6 +2,7 @@
 # Directories
 /.wordpress-org export-ignore
 /.github export-ignore
+/.wp.org-assets export-ignore
 
 # Files
 /.gitattributes export-ignore
