@@ -1,0 +1,10 @@
+{
+  "name": "swissphone-select-for-gravityforms",
+  "version": "1.0.3",
+  "description": "SwissPhone Select for GravityForms adds +41 (Switzerland) as a phone field option, making it easier for Swiss users to fill out forms on WordPress.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Rüegger",
+  "license": "GPL-2.0-only"
+}
