@@ -1,0 +1,9 @@
+#Ignore Direcotries and Files in WorkFlow Deployment
+# Directories
+/.wordpress-org export-ignore
+/.github export-ignore
+
+# Files
+/.gitattributes export-ignore
+/.gitignore export-ignore
+/README.md export-ignore
