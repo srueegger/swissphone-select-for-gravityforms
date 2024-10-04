@@ -11,6 +11,11 @@ The plugin requires no configuration—simply install and activate, and Switzerl
 This GitHub repository holds the source files for the plugin. To download the final build, [head over to WordPress.org](https://wordpress.org/plugins/swissphone-select-for-gravityforms/).
 
 ## Screenshots
+![SwissPhone Select for GravityForms: Backend](https://ps.w.org/swissphone-select-for-gravityforms/assets/screenshot-1.png?rev=3162617)
+Switzerland can now be selected as the number format in the GravityForms backend.
+
+![SwissPhone Select for GravityForms: Frontend](https://ps.w.org/swissphone-select-for-gravityforms/assets/screenshot-2.png?rev=3162617)
+The front end ensures that only a Swiss telephone number can be entered.
 
 ## Contributing
 
