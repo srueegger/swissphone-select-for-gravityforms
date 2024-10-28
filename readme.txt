@@ -3,7 +3,7 @@ Contributors: kim88
 Donate link: https://github.com/sponsors/srueegger
 Tags: gravityforms, switzerland, phone
 Requires at least: 6.6
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1
 Requires PHP: 8.1
 License: GPLv2
