@@ -46,6 +46,16 @@ function spsgf_activation_check() {
 
 register_activation_hook( __FILE__, 'spsgf_activation_check' );
 
+/* Load Translations */
+function spsgf_load_my_own_textdomain( $mofile, $domain ) {
+	if ( 'swissphone-select-for-gravityforms' === $domain && false !== strpos( $mofile, WP_LANG_DIR . '/plugins/' ) ) {
+		$locale = apply_filters( 'plugin_locale', determine_locale(), $domain );
+		$mofile = WP_PLUGIN_DIR . '/' . dirname( plugin_basename( __FILE__ ) ) . '/languages/' . $locale . '.mo';
+	}
+	return $mofile;
+}
+add_filter( 'load_textdomain_mofile', 'spsgf_load_my_own_textdomain', 10, 2 );
+
 /**
  * Plugin functions.
  */
