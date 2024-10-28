@@ -9,6 +9,7 @@
  * License:     GPL-2.0
  * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
  * Text Domain: swissphone-select-for-gravityforms
+ * Domain Path: /languages
  * Requires at least: 6.6
  * Requires PHP: 8.1
  *
